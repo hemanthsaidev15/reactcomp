@@ -1,0 +1,18 @@
+.card{
+    padding: 14px;
+    margin: 14px;
+    
+}
+
+.card-img-top{
+    height: 250px;
+}
+
+.btn-primary{
+    width: 100%;
+   margin-top: 25px;
+}
+.price-value{
+    padding-bottom: 10px;
+   
+}

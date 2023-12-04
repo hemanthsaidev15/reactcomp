@@ -1,0 +1,59 @@
+
+body {
+    background: linear-gradient(70deg, #e6e6e6, #f7f7f7);
+    color: #514B64;
+    min-height: 100vh;
+  }
+  
+  code {
+    background: #fff;
+    padding: 0.2rem;
+    border-radius: 0.2rem;
+    margin: 0 0.3rem;
+  }
+
+  #home{
+    background-image: url('https://just-eat-prod-sg-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto,w_1200,h_630,d_au:cuisines:pizza-4.jpg/v1/au/restaurants/11014864.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
+
+ h1{
+  color: white;
+  text-align: right;
+  position: relative;
+  top: 90px;
+  right:20px;
+
+  }
+  h3{
+    color: white;
+    text-align: right;
+    position: relative;
+    top: 150px;
+    right:30px;
+   
+  }
+  h4 {
+    color: white;
+    text-align: right;
+    position: relative;
+    top: 190px;
+    right:40px;
+  }
+  
+  #card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-image: url('https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  }
+
+
+  #footer{
+    height: 50vh;
+  }
